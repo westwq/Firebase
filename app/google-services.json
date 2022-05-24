@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691352974315",
+    "firebase_url": "https://npict-915f4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "npict-915f4",
+    "storage_bucket": "npict-915f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691352974315:android:26385ed4b61b88125e1fae",
+        "android_client_info": {
+          "package_name": "sg.edu.np.mad.fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691352974315-t359lc1m23j201nbl9hhciflf9e1ehib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0mAdCLZ0iWa_R29Fd-0s1p8oagT4vktc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691352974315-t359lc1m23j201nbl9hhciflf9e1ehib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
